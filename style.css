@@ -44,11 +44,11 @@ a{
   text-transform: uppercase;
   font-family:'Roboto Slab', serif;
   font-size: 400;
-  color: black
+  color: white
 }
 
 a:hover{
-  background: #6883BA;
+  background: #C36044;
 }
 
 img{
